@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan Bakhshi</h1>
 <h3 align="center">I specialize in javascript technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhairawandev&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhairawandev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanbakhshidev&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanbakhshidev" /> </p>
 
 - 🔭 I’m currently working on [Trip Advisor](https://next-trip-adivsor.vercel.app)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ehsanbakhshi.dev](https://ehsanbakhshi.dev)
 
-- 📝 I regularly write articles on [https://abdulhairawan.dev/blogs](https://abdulhairawan.dev/blogs)
+- 📝 I regularly write articles on [https://ehsanbakhshi.dev/blogs](https://ehsanbakhshi.dev/blogs)
 
 - 💬 Ask me about **javascript, react, python, api, c#, sql, tailwind**
 
