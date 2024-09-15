@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanbakhshidev&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanbakhshidev" /> </p>
 
-- 🔭 I’m currently working on [Trip Advisor](https://next-trip-adivsor.vercel.app)
+- 🔭 I’m currently working on [Trip Advisor](https://next-trip-advisor.vercel.app)
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NextJS, Python**
 
